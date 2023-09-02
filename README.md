@@ -1,2 +1,3 @@
 # GeeksForGeeks
-Solution for daily problem of geeks for geeks
+Solution for daily problem of geeks for geeks.
+Repositories are created month wise.
